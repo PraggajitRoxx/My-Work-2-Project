@@ -1,0 +1,35 @@
+*{
+  margin:0;
+  padding: 0;
+}
+
+.Navbar{
+  margin: 0 0;
+  padding: 0 0;
+
+}
+.custom-select-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0;
+}
+
+/* Additional styles to ensure proper spacing and alignment */
+/* .custom-select-container > * { */
+  /* margin: 0 10px; */
+/* } */
+
+.center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 10px 0;
+}
+
+.input-box {
+  width: 600px; /* Increased width */
+  height: 60px; /* Increased height */
+  margin-bottom: 10px;
+}
